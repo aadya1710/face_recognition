@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Face recognition App</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="css/style1.css" />
+  </head>
+  <body>
+   
+    <header>Advertisment Reviewer</header>
+
+
+    <div class="row">
+      <div style="margin-left:20px; margin-top: 20px; margin-bottom: 50px" class="column">
+        <iframe width="1100px" height="715px"
+         src="https://www.youtube.com/embed/1O6Qstncpnc">
+        </iframe>
+        </div>
+    
+        <div class="column">
+         <div class="container">
+          <video id="video" height="500" width="500" autoplay muted></video>
+        </div>
+        <div class="result-container">
+          <form method="POST" name="google-sheet">
+            <label for="Emotion" style=" color:#131313; font-size:x-large; font-weight: bold; padding:5px; margin:5px; " >Emotion</label>
+            <input type="text" class="autofiller" id="emotion" name="Emotion" style=" color:#131313; font-size:x-large; font-weight: bold; padding:5px; margin:5px;"><br>
+            <label for="Gender"  style=" color:#131313; font-size:x-large; font-weight: bold; padding:5px; margin:5px;">Gender</label>
+            <input type="text" class="autofiller" id="gender" name="Gender" style=" color:#131313; font-size:x-large; font-weight: bold; padding:5px; margin:5px;"><br>
+            <label for="Age"  style=" color:#131313; font-size:x-large; font-weight: bold; padding:5px; margin:5px;">Age</label>
+           <input type="text" class="autofiller" id="age" name="Age"style=" color:#131313; font-size:x-large; font-weight: bold; padding:5px; margin:5px;" > <br>
+            <input type="submit" value="Click to record expressions" name="Submit" style=" color:#131313; font-size:x-large; font-weight: bold; padding:5px; margin:5px;">
+          </form>
+        </div>
+      </div>
+    </div>
+
+
+    <script src="./js/face-api.min.js"></script>
+    <script src="./js/main1.js"></script>
+
+    <script>
+      const scriptURL = 'https://script.google.com/macros/s/AKfycbw8MDy4NqG56YJuy33iebmfwzXgVfOCybIm016JC-deILuNGNXeAEL4Kmvf4QS_hBFH/exec'
+      const form = document.forms['google-sheet']
+    
+      //form.addEventListener('submit', e => {
+       // e.preventDefault()
+      //  fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      ///    .catch(error => console.error('Error!', error.message))
+      //})
+
+      form.addEventListener('submit', e => {
+        e.preventDefault()
+        for(var i=0;i<10;i++){
+
+          fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+          .catch(error => console.error('Error!', error.message))
+        }
+      })
+
+    </script>
+  </body>
+</html>
