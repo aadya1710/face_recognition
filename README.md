@@ -1,7 +1,7 @@
 # Face Recognition using API
 
 ## Table of Content
-1. <a name="About the Project"></a>
+1. <a name="About the Project">About the Proejct</a>
 
 ## About the Project
 * Face Recognition is a project built during Microsoft Engage 2022 program.
