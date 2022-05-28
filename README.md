@@ -1,7 +1,7 @@
 # Face Recognition using API
 
 ## Table of Content
-1. [About the Project](https://github.com/aadya1710/face_recognition#About the Project)
+1. [About the Project](https://github.com/aadya1710/face_recognition#About-the-Project)
 
 ## About the Project
 * Face Recognition is a project built during Microsoft Engage 2022 program.
