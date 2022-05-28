@@ -1,7 +1,6 @@
 # Face Recognition using API
-<br>
-## Table of Content
 
+## Table of Content
 1. About The Project
 * Salient Features
 * Compatible Platforms
@@ -13,6 +12,7 @@
 * Main Page
 * Login Page
 * Admin Page 
+
 4. Resources Used
 
 ## About the Project
