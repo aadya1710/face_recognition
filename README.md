@@ -1,19 +1,19 @@
 # Face Recognition using API
-
-## Table of Content
 <br>
+## Table of Content
+
 1. About The Project
 * Salient Features
 * Compatible Platforms
 * Built With
-3. Getting Started
-Prerequisites
-Installation
-Navigating through the App
-Login
-Chat Window
-Video Call
-Resources Used
+
+2. Getting Started
+
+3. Navigating through the Webapp
+* Main Page
+* Login Page
+* Admin Page 
+4. Resources Used
 
 ## About the Project
 
