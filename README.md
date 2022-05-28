@@ -25,7 +25,7 @@
 ### Salient Features
  * Webapp asks for the permission to access the camera and then captures the expressions, age and gender of the people.
  * It stores the data and show that directly to admin.
- * The results are shown in the form of table with a histogram.
+ * The results are shown in the form of table along with a histogram.
 
 ### Compatible Platforms
  Phone, laptop and PC
@@ -56,7 +56,7 @@
 ### Advertisment Page
 User can record their emotions, age and gender by clicking on the button and watch the add side-by-side.
 
---> PS: using your own web camera will give better results
+--> PS: using your own web camera will give better results.
 
 ![image](https://user-images.githubusercontent.com/77448543/170832438-bf460728-abc6-4cb1-827d-4ce807f5fd02.png)
 
