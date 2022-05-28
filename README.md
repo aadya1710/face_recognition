@@ -30,6 +30,7 @@
   $ git clone https://github.com/aadya1710/face_recognition.git
   ```
 
+## Navigating Through WebApp
 
-
+![image](https://user-images.githubusercontent.com/77448543/170831971-934b2062-c1c5-4520-b460-dcb156ca5234.png)
   
