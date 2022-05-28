@@ -1,6 +1,8 @@
 # Face Recognition using API
 
 ## Table of Content
+<a name="About-the-Project"></a> About the Project
+[About the Project](# About-the-Project)
 1. About The Project
    * Salient Features
    * Compatible Platforms
@@ -33,7 +35,7 @@
 ### Built With
 * HTML
 * CSS
-* JAVA
+* Javascript
 * BOOTSTRAP
 * Face_Recognition API
 * Face_Recognition Models
