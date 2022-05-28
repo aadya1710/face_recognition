@@ -2,16 +2,16 @@
 
 ## Table of Content
 1. About The Project
-* Salient Features
-* Compatible Platforms
-* Built With
+  * Salient Features
+  * Compatible Platforms
+  * Built With
 
 2. Getting Started
 
 3. Navigating through the Webapp
-* Main Page
-* Login Page
-* Admin Page 
+  * Main Page
+  * Login Page
+  * Admin Page 
 
 4. Resources Used
 
