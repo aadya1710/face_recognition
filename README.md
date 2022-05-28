@@ -2,8 +2,6 @@
 
 ## Table of Content
 
-
-[About the Project](About-the-Project)
 1. About The Project
    * Salient Features
    * Compatible Platforms
