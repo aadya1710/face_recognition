@@ -37,7 +37,7 @@
 * BOOTSTRAP
 * Face_Recognition API
 * Face_Recognition Models
-* Excel Sheet
+* Google Sheets
 
 ## Getting started 
 
@@ -72,5 +72,6 @@ Admin can see the results of the advertisment on this page.
 
 ## Resources Used
  * [face_recognition](https://dev.to/karkranikhil/face-recognition-using-javascript-33n5)
+ * [Storing data into google sheets](https://www.youtube.com/watch?v=xFj4tZfsKOM&t=148s)
  * stackoverflow
  
