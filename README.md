@@ -2,9 +2,9 @@
 
 ## Table of Content
 1. About The Project
-  * Salient Features
-  * Compatible Platforms
-  * Built With
+   * Salient Features
+   * Compatible Platforms
+   * Built With
 
 2. Getting Started
 
@@ -28,7 +28,7 @@
  * The results are shown in the form of table with a histogram.
 
 ### Compatible Platforms
- Phone and laptop
+ Phone, laptop and PC
  
 ### Built With
 * HTML
@@ -48,12 +48,14 @@
 
 ## Navigating Through WebApp
 ### Home Page
- User can navigate to advertisment page while admin can navigate to login page to access the data.
+ * User can navigate to advertisment page for watching the new advertisment released by the company.
+ * A dmin can navigate to login page to access the data.
  
 ![image](https://user-images.githubusercontent.com/77448543/170831971-934b2062-c1c5-4520-b460-dcb156ca5234.png)
 
 ### Advertisment Page
 User can record their emotions, age and gender by clicking on the button and watch the add side-by-side.
+
 --> PS: using your own web camera will give better results
 
 ![image](https://user-images.githubusercontent.com/77448543/170832438-bf460728-abc6-4cb1-827d-4ce807f5fd02.png)
