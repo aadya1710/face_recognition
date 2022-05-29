@@ -41,7 +41,7 @@
 * Google Sheets
 * App Sccripts
 
-## Getting started 
+## Getting Started 
 
   Just clone the repository using the following command and you're good to go!
   ```
