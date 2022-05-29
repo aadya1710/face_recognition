@@ -57,7 +57,8 @@
 ![image](https://user-images.githubusercontent.com/77448543/170831971-934b2062-c1c5-4520-b460-dcb156ca5234.png)
 
 ### Advertisment Page
-User can record their emotions, age and gender by clicking on the button and watch the add side-by-side. I used face recognition API and Face-recognition models to detect face and predict the expression, age and model. 
+* User can record their emotions, age and gender by clicking on the button and watch the add side-by-side.
+* I used face recognition API and Face-recognition models to detect face and predict the expression, age and model. 
 
 --> PS: using your own web camera will give better results.
 
