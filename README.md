@@ -39,6 +39,7 @@
 * Face_Recognition API
 * Face_Recognition Models
 * Google Sheets
+* App Sccripts
 
 ## Getting started 
 
@@ -50,7 +51,7 @@
 ## Navigating Through WebApp
 ### Home Page
  * User can navigate to advertisment page for watching the new advertisment released by the company.
- * A dmin can navigate to login page to access the data.
+ * Admin can navigate to login page to access the data.
  
 ![image](https://user-images.githubusercontent.com/77448543/170831971-934b2062-c1c5-4520-b460-dcb156ca5234.png)
 
@@ -74,5 +75,5 @@ Admin can see the results of the advertisment on this page.
 ## Resources Used
  * [face_recognition](https://dev.to/karkranikhil/face-recognition-using-javascript-33n5)
  * [Storing data into google sheets](https://www.youtube.com/watch?v=xFj4tZfsKOM&t=148s)
- * stackoverflow
+
  
