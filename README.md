@@ -57,7 +57,7 @@
 ![image](https://user-images.githubusercontent.com/77448543/170831971-934b2062-c1c5-4520-b460-dcb156ca5234.png)
 
 ### Advertisment Page
-User can record their emotions, age and gender by clicking on the button and watch the add side-by-side.
+User can record their emotions, age and gender by clicking on the button and watch the add side-by-side. I used face recognition API and Face-recognition models to detect face and predict the expression, age and model. 
 
 --> PS: using your own web camera will give better results.
 
@@ -69,7 +69,9 @@ Admin can login the page by typing id = 'admin' and password = 'admin'.
 ![image](https://user-images.githubusercontent.com/77448543/170832596-5e7584a1-2a7e-4cd1-b641-9246642c40a1.png)
 
 ### Admin Page
-Admin can see the results of the advertisment on this page.
+* Admin can see the results of the advertisment on this page. I linked this page to google sheet and automatically updated when you record your expressions.
+* Google sheet link : https://docs.google.com/spreadsheets/d/1bs8y6fG7SsMQ0kpO-KLn-Ghq263HF0CYQ-J27IqshxQ/edit#gid=0 admin can also check this sheet to access the data. 
+
 
 ![image](https://user-images.githubusercontent.com/77448543/170832620-31ff7097-2598-490e-bcec-75b6a09c6518.png)
 
