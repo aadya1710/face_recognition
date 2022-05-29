@@ -39,7 +39,7 @@
 * Face_Recognition API
 * Face_Recognition Models
 * Google Sheets
-* App Sccripts
+* Apps Script
 
 ## Getting Started 
 
