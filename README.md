@@ -3,19 +3,19 @@
 ## Table of Content
 
 1. [About The Project](#about-the-project)
-   * Salient Features
-   * Compatible Platforms
-   * Built With
+   * [Salient Features](salient-features)
+   * [Compatible Platforms](compatible-platforms)
+   * [Built With](built-with)
 
-2. Getting Started
+2. [Getting Started](getting-started)
 
-3. Navigating through the Webapp
-   * Main Page
-   * Advertisment Page
-   * Login Page
-   * Admin Page 
+3. [Navigating through the Webapp](navigating-through-the-webapp)
+   * [Main Page](main-page)
+   * [Advertisment Page](advertisment-page)
+   * [Login Page](login-page)
+   * [Admin Page](admin-page)
 
-4. Resources Used
+4. [Resources Used](resources-used)
 
 ## About the Project
 
@@ -48,7 +48,7 @@
   $ git clone https://github.com/aadya1710/face_recognition.git
   ```
 
-## Navigating Through WebApp
+## Navigating Through the Webapp
 ### Home Page
  * User can navigate to advertisment page for watching the new advertisment released by the company.
  * Admin can navigate to login page to access the data.
