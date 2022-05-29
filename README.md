@@ -44,6 +44,7 @@
 ## Getting Started 
 
   Just clone the repository using the following command and you're good to go!
+  --> PS : Do open the the HTML file with live server since the website needs camera access.
   ```
   $ git clone https://github.com/aadya1710/face_recognition.git
   ```
