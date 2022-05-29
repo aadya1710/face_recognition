@@ -3,19 +3,19 @@
 ## Table of Content
 
 1. [About The Project](#about-the-project)
-   * [Salient Features](salient-features)
-   * [Compatible Platforms](compatible-platforms)
-   * [Built With](built-with)
+   * [Salient Features](#salient-features)
+   * [Compatible Platforms](#compatible-platforms)
+   * [Built With]#(built-with)
 
-2. [Getting Started](getting-started)
+2. [Getting Started](#getting-started)
 
-3. [Navigating through the Webapp](navigating-through-the-webapp)
-   * [Main Page](main-page)
-   * [Advertisment Page](advertisment-page)
-   * [Login Page](login-page)
-   * [Admin Page](admin-page)
+3. [Navigating through the Webapp](#navigating-through-the-webapp)
+   * [Main Page](#main-page)
+   * [Advertisment Page](#advertisment-page)
+   * [Login Page](#login-page)
+   * [Admin Page](#admin-page)
 
-4. [Resources Used](resources-used)
+4. [Resources Used](#resources-used)
 
 ## About the Project
 
