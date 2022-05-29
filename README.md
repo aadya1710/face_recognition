@@ -2,7 +2,7 @@
 
 ## Table of Content
 
-1. About The Project
+1. [About The Project](#about-the-project)
    * Salient Features
    * Compatible Platforms
    * Built With
