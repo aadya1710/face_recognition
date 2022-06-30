@@ -18,8 +18,6 @@
 4. [Resources Used](#resources-used)
 
 ## About the Project
-
-* Face Recognition is a project built during Microsoft Engage 2022 program.
 * It's a webapp that records people's expressions, ages, and genders.
 * It determines how impactful an advertisement is and among which age groups and genders.
 
